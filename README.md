@@ -1,5 +1,9 @@
 # Tugas Besar 2 IF3270 Pembelajaran Mesin
 
+# Kelompok 65
+1. Yosef Rafael Joshua 13522133
+2. Chelvadinda 13522154
+
 # Dataset
 
 Dataset yang digunakan:  
